@@ -60,8 +60,8 @@ summary(m_bty)
 
 ## Question 4: Average beauty score seems to be a statistically and practically
 ## significant predictor.
-# TRUE
-# -> FALSE
+# -->TRUE
+# FALSE
 
 ## Question 5: Use residual plots to evaluate whether the conditions of least
 ## squares regression are reasonable. Which of the following statements is an
